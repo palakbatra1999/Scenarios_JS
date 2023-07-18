@@ -21,7 +21,9 @@ Example ::
  }
   d();
 
-Output ::
+Output::
 100 7
 -----------------------------
+
+When functions are returned, they remember their lexical scope.
 
